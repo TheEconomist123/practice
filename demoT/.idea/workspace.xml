@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40b6c211-143c-49b0-a4fa-346ff7fb7fa4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\cmd\git.exe" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="24oF3pXQ84UM1RGO2BUfgSGyjQJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowDebug.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/develop/code/git-DemoT/demoT&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.itheima.demo17.demo05" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\code\demoT" />
+      <recent name="D:\Develop\allCode\demoT\src\main\resources" />
+      <recent name="D:\Develop\allCode\demoT\src\main" />
+      <recent name="D:\Develop\allCode\demoT\src\main\java\com\itheima\demo22" />
+      <recent name="D:\Develop\allCode\demoT\src\main\java\com\itheima" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Develop\allCode\demoT\src" />
+      <recent name="D:\Develop\allCode\demoT\src\main\resources\cc" />
+      <recent name="D:\Develop\allCode\demoT\src\main\resources" />
+      <recent name="D:\Develop\allCode\demoT\src\main\java\com\itheima" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.itheima.demo22.overflowdemo.TestStackOverFlowOfOther">
+    <configuration name="ArrayToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo12.ArrayToFile" />
+      <module name="idea_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo06.MathDemo" />
+      <module name="idea_demo" />
+      <selectedOptions>
+        <option name="environmentVariables" visible="false" />
+      </selectedOptions>
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo1.Test01" />
+      <module name="idea_demo" />
+      <option name="PROGRAM_PARAMETERS" value="-Xmx256k" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.demo22.jvmdemo.TestHeapOverFlow" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHeapOverFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo22.jvmdemo.TestHeapOverFlow" />
+      <module name="idea_demo" />
+      <option name="VM_PARAMETERS" value="-Xss256" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.demo22.jvmdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo22.TestStackOverFlow" />
+      <module name="demoT" />
+      <option name="VM_PARAMETERS" value="-Xss256" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.demo06.DateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo06.DateDemo" />
+      <module name="demoT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.demo06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.demo22.TestInnerMethodVariableSafe" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:\develop\java\java8\jdk\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo22.TestInnerMethodVariableSafe" />
+      <module name="idea_demo" />
+      <selectedOptions>
+        <option name="environmentVariables" visible="false" />
+      </selectedOptions>
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.demo22.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.demo22.overflowdemo.TestStackOverFlowOfOther" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo22.overflowdemo.TestStackOverFlowOfOther" />
+      <module name="idea_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.demo22.overflowdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MathDemo" />
+      <item itemvalue="Application.com.itheima.demo22.TestInnerMethodVariableSafe" />
+      <item itemvalue="Application.TestHeapOverFlow" />
+      <item itemvalue="Application.com.itheima.demo22.overflowdemo.TestStackOverFlowOfOther" />
+      <item itemvalue="Application.Test01" />
+      <item itemvalue="Application.ArrayToFile" />
+      <item itemvalue="Application.com.itheima.demo06.DateDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.itheima.demo22.overflowdemo.TestStackOverFlowOfOther" />
+        <item itemvalue="Application.TestHeapOverFlow" />
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.ArrayToFile" />
+        <item itemvalue="Application.com.itheima.demo06.DateDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40b6c211-143c-49b0-a4fa-346ff7fb7fa4" name="Changes" comment="" />
+      <created>1644288838283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644288838283</updated>
+      <workItem from="1644288839526" duration="21467000" />
+      <workItem from="1644477946044" duration="11219000" />
+      <workItem from="1644647021530" duration="5454000" />
+      <workItem from="1644740671328" duration="174000" />
+      <workItem from="1644740870241" duration="51000" />
+      <workItem from="1644743538253" duration="48819000" />
+      <workItem from="1645405195438" duration="24755000" />
+      <workItem from="1645606743615" duration="13596000" />
+      <workItem from="1645752240874" duration="6002000" />
+      <workItem from="1646010398897" duration="184656000" />
+      <workItem from="1647918612949" duration="21770000" />
+      <workItem from="1648086025129" duration="32616000" />
+      <workItem from="1648344179990" duration="536000" />
+      <workItem from="1648519499202" duration="20331000" />
+      <workItem from="1648696969685" duration="8515000" />
+      <workItem from="1649066880617" duration="2059000" />
+      <workItem from="1649068997372" duration="11251000" />
+      <workItem from="1649233692257" duration="895000" />
+      <workItem from="1649236290813" duration="10000" />
+      <workItem from="1649380938727" duration="865000" />
+      <workItem from="1649401701821" duration="126000" />
+      <workItem from="1649645138713" duration="3088000" />
+      <workItem from="1649737319372" duration="4454000" />
+      <workItem from="1650528420111" duration="1193000" />
+      <workItem from="1650531671990" duration="1467000" />
+      <workItem from="1650629900635" duration="16863000" />
+      <workItem from="1650700558472" duration="6537000" />
+      <workItem from="1650715380281" duration="570000" />
+      <workItem from="1650715972032" duration="2189000" />
+      <workItem from="1650867375623" duration="1332000" />
+      <workItem from="1650974184398" duration="645000" />
+      <workItem from="1650975691580" duration="128000" />
+      <workItem from="1650976094132" duration="11000" />
+      <workItem from="1650976124244" duration="92000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="com.itheima.demo07.ScoreException" package="com.itheima.demo07" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/demo22/jvmdemo/TestStringLazyLoad.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
